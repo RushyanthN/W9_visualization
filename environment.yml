@@ -5,7 +5,7 @@ dependencies:
   - pip:
     - pandas
     - python-dotenv
-    - streamlit==1.32.2
+    - streamlit
     - boto3
     - ipykernel
     - vaderSentiment
